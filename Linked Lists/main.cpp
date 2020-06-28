@@ -13,5 +13,7 @@ struct Node{
 }*head{nullptr};
 
 int main(){
+    Node *current = new Node;
+    
     return 0;
 }
