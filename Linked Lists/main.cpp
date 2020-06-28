@@ -10,10 +10,10 @@ using namespace std;
 struct Node{
     int data;
     Node *link;
-}*head{nullptr};
+}*head{NULL};
+
 
 int main(){
-    Node *current = new Node;
-    
+  
     return 0;
 }
