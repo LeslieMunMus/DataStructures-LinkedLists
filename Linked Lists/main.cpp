@@ -10,8 +10,9 @@ using namespace std;
 struct Node{
     int data;
     Node *link;
-}*head{NULL};
+};
 
+Node *head{NULL};
 
 void insert(int list_elem);
 void display();
