@@ -3,6 +3,7 @@
 //  Created by Leslie Musengi on 2020/06/28.
 //  Copyright © 2020 Leslie Musengi. All rights reserved.
 
+/*
 #include <iostream>
 
 using namespace std;
@@ -20,6 +21,7 @@ void display();
 
 int main(){
     int num;
+    cout << head << endl;
     
     cout << "How many numbers do you need to add?: ";
     cin >> num;
@@ -54,3 +56,4 @@ void display(){
     }
     cout << endl;
 }
+*/
